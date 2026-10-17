@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body, .main-menu > li > a, .ltext-102 {
+    font-family: 'Roboto', sans-serif;
+}
+.hidden  {
+    display: none !important;
+}
+.VYJdTQ {
+    width: 100%;
+    margin-bottom: 12px;
+    display: flex;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: #fff;
+    border-top-left-radius: 2px;
+    border-top-right-radius: 2px
+}
+.OFl2GI {
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 16px 0;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: rgba(0,0,0,.8);
+    background: #fff;
+    border-bottom: 2px solid rgba(0,0,0,.09);
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    transition: color .2s;
+    text-decoration: none;
+}
+
+.gAImis,.OFl2GI:hover {
+    color: #ee4d2d
+}
+
+.gAImis {
+    border-color: #ee4d2d
+}
+
+._20hgQK {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
